@@ -1,0 +1,2 @@
+# PulumiTestDay
+Just some tests
